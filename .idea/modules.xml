@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/AriTest/AriTest.iml" filepath="$PROJECT_DIR$/JavaBase/AriTest/AriTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/BankSystem/BankSystem.iml" filepath="$PROJECT_DIR$/JavaBase/BankSystem/BankSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/FamilyAccount/FamilyAccount.iml" filepath="$PROJECT_DIR$/JavaBase/FamilyAccount/FamilyAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java01/Java01.iml" filepath="$PROJECT_DIR$/JavaBase/Java01/Java01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java02/Java02.iml" filepath="$PROJECT_DIR$/JavaBase/Java02/Java02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java03/Java03.iml" filepath="$PROJECT_DIR$/JavaBase/Java03/Java03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java09/Java09.iml" filepath="$PROJECT_DIR$/JavaBase/Java09/Java09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java10/Java10.iml" filepath="$PROJECT_DIR$/JavaBase/Java10/Java10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java12/Java12.iml" filepath="$PROJECT_DIR$/JavaBase/Java12/Java12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/Java13/Java13.iml" filepath="$PROJECT_DIR$/JavaBase/Java13/Java13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn.iml" filepath="$PROJECT_DIR$/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 01/JavaSenior 01.iml" filepath="$PROJECT_DIR$/JavaSenior 01/JavaSenior 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 02/JavaSenior 02.iml" filepath="$PROJECT_DIR$/JavaSenior 02/JavaSenior 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 03/JavaSenior 03.iml" filepath="$PROJECT_DIR$/JavaSenior 03/JavaSenior 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 04/JavaSenior 04.iml" filepath="$PROJECT_DIR$/JavaSenior 04/JavaSenior 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 05/JavaSenior 05.iml" filepath="$PROJECT_DIR$/JavaSenior 05/JavaSenior 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 06/JavaSenior 06.iml" filepath="$PROJECT_DIR$/JavaSenior 06/JavaSenior 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 07/JavaSenior 07.iml" filepath="$PROJECT_DIR$/JavaSenior 07/JavaSenior 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 08/JavaSenior 08.iml" filepath="$PROJECT_DIR$/JavaSenior 08/JavaSenior 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 09/JavaSenior 09.iml" filepath="$PROJECT_DIR$/JavaSenior 09/JavaSenior 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 10/JavaSenior 10.iml" filepath="$PROJECT_DIR$/JavaSenior 10/JavaSenior 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 11/JavaSenior 11.iml" filepath="$PROJECT_DIR$/JavaSenior 11/JavaSenior 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior 12/JavaSenior 12.iml" filepath="$PROJECT_DIR$/JavaSenior 12/JavaSenior 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/TeamMangerProject/TeamMangerProject.iml" filepath="$PROJECT_DIR$/JavaBase/TeamMangerProject/TeamMangerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java04/java04.iml" filepath="$PROJECT_DIR$/JavaBase/java04/java04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java05/java05.iml" filepath="$PROJECT_DIR$/JavaBase/java05/java05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java06/java06.iml" filepath="$PROJECT_DIR$/JavaBase/java06/java06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java07/java07.iml" filepath="$PROJECT_DIR$/JavaBase/java07/java07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java08/java08.iml" filepath="$PROJECT_DIR$/JavaBase/java08/java08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/java11/java11.iml" filepath="$PROJECT_DIR$/JavaBase/java11/java11.iml" />
+    </modules>
+  </component>
+</project>
